@@ -1,0 +1,10 @@
+roll number is  1 and mark is 8
+roll number is  2 and mark is 8
+roll number is  3 and mark is 8
+roll number is  4 and mark is 8
+roll number is  5 and mark is 8
+roll number is  6 and mark is 8
+roll number is  7 and mark is 8
+roll number is  8 and mark is 8
+roll number is  9 and mark is 8
+roll number is  10 and mark is 8

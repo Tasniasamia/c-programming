@@ -76,46 +76,4 @@ return 0;
 
 
 
-/*#include<stdio.h>
-#include<string.h>
-#include<math.h>
-#include<stdlib.h>
-int main(){
-char arr[]="45.03";
-char arr2[100];
-char arr4[100];
-int i,k,l,number;
-int string_length=strlen(arr);
-printf("Please try to get before point\n");
-for(i=0;i<arr[i]!='.';i++){
-        arr2[i]=arr[i];
-    }
-/*for(k=i,l=1;k<string_length;k++,l++){
-    arr4[l]=arr[k];
-}
-printf("after point %s",arr4);
-
-number=atoi(arr2);
-char arr3[1000];
-int j=0;
-
-while(number!=0){
-printf("number is %d\n",number);
-if(number%2==0){
-    arr3[j]='0';
-}
-else{
-    arr3[j]='1';
-}
-number/=2;
-j++;
-}
-
-printf("%s",arr3);
-
-
-return 0;
-
-}
-*/
 
